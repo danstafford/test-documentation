@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Frontpage: https://danstafford.github.io/test-documentation/
+Frontpage: [https://danstafford.github.io/test-documentation/](https://danstafford.github.io/test-documentation/)
 
 You can use the [editor on GitHub](https://github.com/danstafford/test-documentation/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
